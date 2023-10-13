@@ -1,16 +1,13 @@
-### Hi there 👋
+###  Olatunji Adebajo
+#### Solution Architect | CCIE
+![Solution Architect | CCIE](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-<!--
-**todimskii/todimskii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I love learning and staying curious
 
-Here are some ideas to get you started:
+Skills: Networking / Datacentre / Security / Cloud / Devops / Python / IoT
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on this page. 
+
+
+
+
