@@ -12,7 +12,7 @@ I love learning and staying curious. Currently an infrastructure engineer but lo
 <br>
 🌱**Currently Learning:** HTML, CSS, and JS
 
-Cuurent Skills: Networking / Datacentre / Security / Cloud / Devops / Python / IoT
+#### Current Skills: Networking / Datacentre / Security / Cloud / Devops / Python / IoT
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sarah-S-R)](https://github.com/anuraghazra/github-readme-stats)
 
