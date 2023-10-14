@@ -18,7 +18,7 @@ Cuurent Skills: Networking / Datacentre / Security / Cloud / Devops / Python / I
 
 <div class="social-icons">
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>
-<img src='https://ca.linkedin.com/pub/dir/+/Adebajo/ca-0-Canada' alt='linkedin' height='40'>
+<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>
 
 </div>
 
